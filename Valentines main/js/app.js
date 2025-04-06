@@ -6,7 +6,7 @@ const vid = document.querySelector("video");
 let count = 2;
 
 const gifs = [
-  "https://media.tenor.com/uUtkQ30prJUAAAAM/date-music.gif",
+  "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/date-music.gif",
   "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/mindblown-mind-blown.gif",
   "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/kabangu-upset.gif",
   "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/panda-lonely.gif",
