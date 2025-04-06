@@ -10,7 +10,7 @@ const gifs = [
   "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/mindblown-mind-blown.gif",
   "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/kabangu-upset.gif",
   "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/panda-lonely.gif",
-  "https://media.tenor.com/lDMve-IMXY8AAAAM/spongebob-squarepants-begging.gif",
+  "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/please.gif",
   "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/erm-fingers.gif"
 ];
 
@@ -45,13 +45,13 @@ no.addEventListener("click", () => {
     no.style.width = "10%";
     count++;
   } else if (count == 5) {
-    gif.src = "https://media.tenor.com/lDMve-IMXY8AAAAM/spongebob-squarepants-begging.gif";// gif credit: https://tenor.com/view/cat-gif-10173437195524493032
+    gif.src = "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/please.gif";// gif credit: https://tenor.com/view/cat-gif-10173437195524493032
     text.innerHTML = " guijin tehuu 😊";
     yes.style.height = "90%";
     yes.style.width = "96%";
     no.style.display = "none";
   } else if (count == 6) {
-    gif.src = "C:\\tosol\\Valentines-website-by-loopz-main\\Valentines-website-by-loopz-main\\valentines website\\resources\\giphy.gif";// gif credit: https://tenor.com/view/cat-gif-10173437195524493032
+    gif.src = "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/please.gif";// gif credit: https://tenor.com/view/cat-gif-10173437195524493032
     text.innerHTML = " guijin tehuu 😊";
     yes.style.height = "90%";
     yes.style.width = "96%";
