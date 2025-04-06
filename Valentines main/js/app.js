@@ -7,7 +7,7 @@ let count = 2;
 
 const gifs = [
   "https://media.tenor.com/uUtkQ30prJUAAAAM/date-music.gif",
-  "https://media.tenor.com/IDFvtn8nahgAAAAM/mindblown-mind-blown.gif",
+  "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/mindblown-mind-blown.gif",
   "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/kabangu-upset.gif",
   "https://media.tenor.com/hSat2_RtsEQAAAAM/panda-lonely.gif",
   "https://media.tenor.com/lDMve-IMXY8AAAAM/spongebob-squarepants-begging.gif",
@@ -23,7 +23,7 @@ gifs.forEach(gifSrc => {
 // changes for when NO button is clicked
 no.addEventListener("click", () => {
   if (count == 2) {
-    gif.src = "https://media.tenor.com/IDFvtn8nahgAAAAM/mindblown-mind-blown.gif";// gif credit: https://knowyourmeme.com/photos/2738959-mr-fresh-side-eye-cat
+    gif.src = "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/mindblown-mind-blown.gif";// gif credit: https://knowyourmeme.com/photos/2738959-mr-fresh-side-eye-cat
     text.innerHTML = "ohhhhhh 😲";
     yes.style.height = "65%";
     yes.style.width = "60%";
