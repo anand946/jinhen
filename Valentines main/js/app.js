@@ -6,7 +6,7 @@ const vid = document.querySelector("video");
 let count = 2;
 
 const gifs = [
-  "../resources/cat-heart.gif",
+  "https://media.tenor.com/uUtkQ30prJUAAAAM/date-music.gif",
   "https://media.tenor.com/IDFvtn8nahgAAAAM/mindblown-mind-blown.gif",
   "https://media.tenor.com/53zhDFlKE8gAAAAM/kabangu-upset.gif",
   "https://media.tenor.com/hSat2_RtsEQAAAAM/panda-lonely.gif",
