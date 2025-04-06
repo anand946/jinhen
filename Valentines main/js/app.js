@@ -11,7 +11,7 @@ const gifs = [
   "https://media.tenor.com/53zhDFlKE8gAAAAM/kabangu-upset.gif",
   "https://media.tenor.com/hSat2_RtsEQAAAAM/panda-lonely.gif",
   "https://media.tenor.com/lDMve-IMXY8AAAAM/spongebob-squarepants-begging.gif",
-  "https://media.tenor.com/5z-GOtoO8PkAAAAM/cute-fingers-fixed-cat.gif"
+  "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/erm-fingers.gif"
 ];
 
 // to load the gifs faster
@@ -62,7 +62,7 @@ no.addEventListener("click", () => {
 // changes for when YES button is clicked
 yes.addEventListener("click", () => {
   vid.style.display = "block";
-  gif.src = "https://media.tenor.com/5z-GOtoO8PkAAAAM/cute-fingers-fixed-cat.gif";// gif credit: https://tenor.com/view/peach-cat-kiss-animated-love-mwah-gif-25743978
+  gif.src = "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/erm-fingers.gif";// gif credit: https://tenor.com/view/peach-cat-kiss-animated-love-mwah-gif-25743978
   text.innerHTML = "👉🏿hariuga chataar ilgeegere👈🏿";
   yes.innerHTML = '<a href="https://www.instagram.com/jambaq_p/">Message me</a>';// inside the " " put your social media profile link
   yes.style.height = "90%";
