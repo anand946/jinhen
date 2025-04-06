@@ -9,7 +9,7 @@ const gifs = [
   "https://media.tenor.com/uUtkQ30prJUAAAAM/date-music.gif",
   "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/mindblown-mind-blown.gif",
   "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/kabangu-upset.gif",
-  "https://media.tenor.com/hSat2_RtsEQAAAAM/panda-lonely.gif",
+  "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/panda-lonely.gif",
   "https://media.tenor.com/lDMve-IMXY8AAAAM/spongebob-squarepants-begging.gif",
   "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/erm-fingers.gif"
 ];
@@ -37,7 +37,7 @@ no.addEventListener("click", () => {
     no.style.width = "20%";
     count++;
   } else if (count == 4) {
-    gif.src = "https://media.tenor.com/hSat2_RtsEQAAAAM/panda-lonely.gif";// gif credit: https://tenor.com/view/cat-kitty-gif-25340141
+    gif.src = "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/panda-lonely.gif";// gif credit: https://tenor.com/view/cat-kitty-gif-25340141
     text.innerHTML = "gomdloo 😭";
     yes.style.height = "80%";
     yes.style.width = "80%";
