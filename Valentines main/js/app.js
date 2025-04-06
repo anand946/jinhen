@@ -8,7 +8,7 @@ let count = 2;
 const gifs = [
   "https://media.tenor.com/uUtkQ30prJUAAAAM/date-music.gif",
   "https://media.tenor.com/IDFvtn8nahgAAAAM/mindblown-mind-blown.gif",
-  "https://media.tenor.com/53zhDFlKE8gAAAAM/kabangu-upset.gif",
+  "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/kabangu-upset.gif",
   "https://media.tenor.com/hSat2_RtsEQAAAAM/panda-lonely.gif",
   "https://media.tenor.com/lDMve-IMXY8AAAAM/spongebob-squarepants-begging.gif",
   "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/erm-fingers.gif"
@@ -30,7 +30,7 @@ no.addEventListener("click", () => {
     no.style.width = "30%";
     count++;
   } else if (count == 3) {
-    gif.src = "https://media.tenor.com/53zhDFlKE8gAAAAM/kabangu-upset.gif";// gif credit: https://tenor.com/view/tkthao219-peach-goma-gif-25008901
+    gif.src = "https://github.com/anand946/jinhen/blob/main/Valentines%20main/resources/kabangu-upset.gif";// gif credit: https://tenor.com/view/tkthao219-peach-goma-gif-25008901
     text.innerHTML = "yaasan muuhain 🥹";
     yes.style.height = "70%";
     yes.style.width = "70%";
